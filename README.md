@@ -1,4 +1,4 @@
-<h1 align="left">:wave: Hello there! I'm Dmitry Babin</h1>
+<h1 align="left">:wave: Hello there! I'm Max Bondarenko</h1>
 
 <!--
 **maxnes3/maxnes3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
