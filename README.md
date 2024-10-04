@@ -13,25 +13,92 @@
       </a>
       <br>javascript
     </td>
+    <td align="center" width="110" height="90">
+      <a href="#maxnes3-stack">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TS" title="TypeScript" />
+      </a>
+      <br>typescript
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#maxnes3-stack">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML" title="HTML" />
+      </a>
+      <br>html5
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#maxnes3-stack">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS" title="CSS" />
+      </a>
+      <br>css3
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#maxnes3-stack">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="SASS" title="SASS" />
+      </a>
+      <br>sass
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#maxnes3-stack">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" title="React" />
+      </a>
+      <br>react
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#maxnes3-stack">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="Vue.js" title="Vue.js" />
+      </a>
+      <br>vue.js
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#maxnes3-stack">
+        <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vitejs/vitejs-original.svg" height="40" alt="Vite" title="Vite" />
+      </a>
+      <br>vite.js
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#maxnes3-stack">
+        <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vitejs/vitejs-original.svg" height="40" alt="Vite" title="Vite" />
+      </a>
+      <br>vite.js
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#maxnes3-stack">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="Redux" title="Redux" />
+      </a>
+      <br>redux
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#maxnes3-stack">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="NPM" title="NPM" />
+      </a>
+      <br>npm
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#maxnes3-stack">
+        <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind" title="Tailwind" />
+      </a>
+      <br>tailwindcss
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#maxnes3-stack">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" title="Bootstrap" />
+      </a>
+      <br>bootstrap
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#maxnes3-stack">
+        <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/axios/axios-plain.svg" height="40" alt="Axios" title="Axios" />
+      </a>
+      <br>axios
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#maxnes3-stack">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="AJAX" title="AJAX" />
+      </a>
+      <br>ajax
+    </td>
   </tr> 
 </table>
-
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JS" title="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TS" title="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML" title="HTML" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS" title="CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="SASS" title="SASS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" title="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="Vue.js" title="Vue.js" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vitejs/vitejs-original.svg" height="40" alt="Vite" title="Vite" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="Redux" title="Redux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="NPM" title="NPM" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind" title="Tailwind" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" title="Bootstrap" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/axios/axios-plain.svg" height="40" alt="Axios" title="Axios" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="AJAX" title="AJAX" />
-</div>
 
 ### Backend
 <div>
