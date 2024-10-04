@@ -83,6 +83,8 @@
       </a>
       <br>bootstrap
     </td>
+  </tr>
+  <tr>
     <td align="center" width="110" height="90">
       <a href="#maxnes3-stack">
         <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/axios/axios-plain.svg" height="40" alt="Axios" title="Axios" />
