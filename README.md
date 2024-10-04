@@ -101,25 +101,76 @@
 </table>
 
 ### Backend
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="40" alt="Prisma" title="Prisma" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nestjs/nestjs-original.svg" height="40" alt="Nest.js" title="Nest.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="40" alt="Swagger" title="Swagger" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" title="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" title="MongoDB" />
-</div>
+<table width='100%'>
+  <tr>
+    <td align="center" width="110" height="90">
+      <a href="#maxnes3-stack">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="40" alt="Prisma" title="Prisma" />
+      </a>
+      <br>prisma
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#maxnes3-stack">
+        <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nestjs/nestjs-original.svg" height="40" alt="Nest.js" title="Nest.js" />
+      </a>
+      <br>nest.js
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#maxnes3-stack">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="40" alt="Swagger" title="Swagger" />
+      </a>
+      <br>swagger
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#maxnes3-stack">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" title="PostgreSQL" />
+      </a>
+      <br>postgresql
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#maxnes3-stack">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" title="MongoDB" />
+      </a>
+      <br>mongodb
+    </td>
+  </tr>
+</table>
 
-### Code quality
-<div>
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/eslint/eslint-original.svg" height="40" alt="Eslint" title="Eslint" />
-</div>
+### Code Quality
+<table width='100%'>
+  <tr>
+    <td align="center" width="110" height="90">
+      <a href="#maxnes3-stack">
+        <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/eslint/eslint-original.svg" height="40" alt="Eslint" title="Eslint" />
+      </a>
+      <br>eslint
+    </td>
+  </tr>
+</table>
 
 ### Version Control
-<div>
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/git/git-original.svg" height="40" alt="Git" title="Git" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/github/github-original.svg" height="40" alt="GitHub" title="GitHub" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/gitlab/gitlab-original.svg" height="40" alt="GitLab" title="GitLab" />
-</div>
+<table width='100%'>
+  <tr>
+    <td align="center" width="110" height="90">
+      <a href="#maxnes3-stack">
+        <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/git/git-original.svg" height="40" alt="Git" title="Git" />
+      </a>
+      <br>git
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#maxnes3-stack">
+        <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/github/github-original.svg" height="40" alt="GitHub" title="GitHub" />
+      </a>
+      <br>github
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#maxnes3-stack">
+        <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/gitlab/gitlab-original.svg" height="40" alt="GitLab" title="GitLab" />
+      </a>
+      <br>gitlab
+    </td>
+  </tr>
+</table>
 
 ### OS
 <div>
