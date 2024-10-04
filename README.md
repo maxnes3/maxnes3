@@ -27,7 +27,7 @@
     </td>
     <td align="center" width="110" height="90">
       <a href="#maxnes3-stack">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40 alt="CSS" title="CSS" />
+        <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/css3/css3-original.svg" width="40" height="40 alt="CSS" title="CSS" />
       </a>
       <br>css3
     </td>
