@@ -31,6 +31,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" title="MongoDB" />
 </div>
 
+### OS
+<div>
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/windows11/windows11-original.svg" height="40" alt="Windows" title="Windows" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linux/linux-original.svg" height="40" alt="Linux" title="Linux" />
+</div>
+
 ### Other
 <div>
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/figma/figma-original.svg" height="40" alt="Figma" title="Figma" />
