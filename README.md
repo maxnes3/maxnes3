@@ -18,7 +18,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="NPM" title="NPM" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind" title="Tailwind" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" title="Bootstrap" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/axios/axios-plain-wordmark.svg" height="40" alt="Axios" title="Axios" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/axios/axios-plain.svg" height="40" alt="Axios" title="Axios" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="AJAX" title="AJAX" />
 </div>
 
@@ -29,6 +29,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="40" alt="Swagger" title="Swagger" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" title="PostgreSQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" title="MongoDB" />
+</div>
+
+### Code quality
+<div>
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/eslint/eslint-original.svg" height="40" alt="Eslint" title="Eslint" />
 </div>
 
 ### OS
