@@ -5,6 +5,17 @@
 ## Мои умения
 
 ### Frontend
+<table width='100%'>
+  <tr>
+    <td align="center" width="110" height="90">
+      <a href="#maxnes3-stack">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JS" title="JavaScript" />
+      </a>
+      <br>javascript
+    </td>
+  </tr> 
+</table>
+
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JS" title="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TS" title="TypeScript" />
