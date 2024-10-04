@@ -53,12 +53,24 @@
     </td>
     <td align="center" width="110" height="90">
       <a href="#maxnes3-stack">
-        <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vitejs/vitejs-original.svg" height="40" alt="Vite" title="Vite" />
+        <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" title="Next.js" />
       </a>
       <br>vite.js
     </td>
   </tr>
   <tr>
+    <td align="center" width="110" height="90">
+      <a href="#maxnes3-stack">
+        <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vitejs/vitejs-original.svg" height="40" alt="Vite" title="Vite" />
+      </a>
+      <br>vite.js
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#maxnes3-stack">
+        <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/webpack/webpack-original.svg" height="40" alt="Webpack" title="Webpack" />
+      </a>
+      <br>webpack
+    </td>
     <td align="center" width="110" height="90">
       <a href="#maxnes3-stack">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="Redux" title="Redux" />
@@ -71,6 +83,8 @@
       </a>
       <br>npm
     </td>
+  </tr>
+  <tr>
     <td align="center" width="110" height="90">
       <a href="#maxnes3-stack">
         <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind" title="Tailwind" />
@@ -83,8 +97,6 @@
       </a>
       <br>bootstrap
     </td>
-  </tr>
-  <tr>
     <td align="center" width="110" height="90">
       <a href="#maxnes3-stack">
         <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/axios/axios-plain.svg" height="40" alt="Axios" title="Axios" />
