@@ -31,6 +31,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" title="MongoDB" />
 </div>
 
+### Other
+<div>
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/figma/figma-original.svg" height="40" alt="Figma" title="Figma" />
+</div>
+  
 ## Контакты
 
 - [Email](maxnes332@yandex.ru)
