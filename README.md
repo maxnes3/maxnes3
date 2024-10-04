@@ -5,7 +5,7 @@
 ## Мои умения
 
 ### Frontend
-<div>
+<div style="display: flex; flex-direction: row;">
   <div style="display: inline-block; text-align: center; margin: 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JS" title="JavaScript" />
     <div>JavaScript</div>
