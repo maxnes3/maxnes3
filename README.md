@@ -36,13 +36,20 @@
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/eslint/eslint-original.svg" height="40" alt="Eslint" title="Eslint" />
 </div>
 
+### Version Control
+<div>
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/git/git-original.svg" height="40" alt="Git" title="Git" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/github/github-original.svg" height="40" alt="GitHub" title="GitHub" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/gitlab/gitlab-original.svg" height="40" alt="GitLab" title="GitLab" />
+</div>
+
 ### OS
 <div>
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/windows11/windows11-original.svg" height="40" alt="Windows" title="Windows" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linux/linux-original.svg" height="40" alt="Linux" title="Linux" />
 </div>
 
-### Other
+### Design
 <div>
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/figma/figma-original.svg" height="40" alt="Figma" title="Figma" />
 </div>
