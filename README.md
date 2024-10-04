@@ -9,43 +9,43 @@
   <tr>
     <td align="center" width="110" height="90">
       <a href="#maxnes3-stack">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JS" title="JavaScript" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JS" title="JavaScript" />
       </a>
       <br>javascript
     </td>
     <td align="center" width="110" height="90">
       <a href="#maxnes3-stack">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40 alt="TS" title="TypeScript" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40 alt="TS" title="TypeScript" />
       </a>
       <br>typescript
     </td>
     <td align="center" width="110" height="90">
       <a href="#maxnes3-stack">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40 alt="HTML" title="HTML" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40 alt="HTML" title="HTML" />
       </a>
       <br>html5
     </td>
     <td align="center" width="110" height="90">
       <a href="#maxnes3-stack">
-        <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/css3/css3-original.svg" width="40" height="40 alt="CSS" title="CSS" />
+        <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/css3/css3-original.svg" height="40 alt="CSS" title="CSS" />
       </a>
       <br>css3
     </td>
     <td align="center" width="110" height="90">
       <a href="#maxnes3-stack">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40 alt="SASS" title="SASS" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40 alt="SASS" title="SASS" />
       </a>
       <br>sass
     </td>
     <td align="center" width="110" height="90">
       <a href="#maxnes3-stack">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40 alt="React" title="React" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40 alt="React" title="React" />
       </a>
       <br>react
     </td>
     <td align="center" width="110" height="90">
       <a href="#maxnes3-stack">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40 alt="Vue.js" title="Vue.js" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40 alt="Vue.js" title="Vue.js" />
       </a>
       <br>vue.js
     </td>
