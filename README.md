@@ -31,6 +31,8 @@
       </a>
       <br>css3
     </td>
+  </tr>
+  <tr>
     <td align="center" width="110" height="90">
       <a href="#maxnes3-stack">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40 alt="SASS" title="SASS" />
@@ -55,6 +57,8 @@
       </a>
       <br>vite.js
     </td>
+  </tr>
+  <tr>
     <td align="center" width="110" height="90">
       <a href="#maxnes3-stack">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="Redux" title="Redux" />
