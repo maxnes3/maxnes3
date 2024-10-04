@@ -5,7 +5,7 @@
 ## Мои умения
 
 ### Frontend
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+<div style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 20px;">
   <div style="text-align: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JS" title="JavaScript" />
     <div>JavaScript</div>
