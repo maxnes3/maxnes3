@@ -187,10 +187,22 @@
 </table>
 
 ### OS
-<div>
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/windows11/windows11-original.svg" height="40" alt="Windows" title="Windows" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linux/linux-original.svg" height="40" alt="Linux" title="Linux" />
-</div>
+<table width='100%'>
+  <tr>
+    <td align="center" width="110" height="90">
+      <a href="#maxnes3-stack">
+        <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/windows11/windows11-original.svg" height="40" alt="Windows" title="Windows" />
+      </a>
+      <br>windows
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#maxnes3-stack">
+        <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linux/linux-original.svg" height="40" alt="Linux" title="Linux" />
+      </a>
+      <br>linux
+    </td>
+  </tr>
+</table>
 
 ### Design
 <div>
