@@ -105,9 +105,9 @@
     </td>
     <td align="center" width="110" height="90">
       <a href="#maxnes3-stack">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="AJAX" title="AJAX" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jQuery" title="jQuery" />
       </a>
-      <br>ajax
+      <br>jQuery
     </td>
   </tr>
   <tr>
