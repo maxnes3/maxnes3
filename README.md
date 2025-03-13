@@ -115,19 +115,19 @@
       <a href="#maxnes3-stack">
         <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/antdesign/antdesign-original.svg" height="40" alt="AntDesign" title="AntDesign" />
       </a>
-      <br>AntDesign
+      <br>antDesign
     </td>
     <td align="center" width="110" height="90">
       <a href="#maxnes3-stack">
         <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/materialui/materialui-original.svg" height="40" alt="MaterialUI" title="MaterialUI" />
       </a>
-      <br>MaterialUI
+      <br>materialUI
     </td>
     <td align="center" width="110" height="90">
       <a href="#maxnes3-stack">
         <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/electron/electron-original.svg" height="40" alt="ElectronJS" title="ElectronJS" />
       </a>
-      <br>ElectronJS
+      <br>electronJS
     </td>
   </tr>
 </table>
@@ -219,19 +219,19 @@
       <a href="#maxnes3-stack">
         <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/windows11/windows11-original.svg" height="40" alt="Windows" title="Windows" />
       </a>
-      <br>Windows
+      <br>windows
     </td>
     <td align="center" width="110" height="90">
       <a href="#maxnes3-stack">
         <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linux/linux-original.svg" height="40" alt="Linux" title="Linux" />
       </a>
-      <br>Linux
+      <br>linux
     </td>
     <td align="center" width="110" height="90">
       <a href="#maxnes3-stack">
         <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/fedora/fedora-original.svg" height="40" alt="Fedora" title="Fedora" />
       </a>
-      <br>Fedora
+      <br>fedora
     </td>
   </tr>
 </table>
