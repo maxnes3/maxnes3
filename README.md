@@ -231,9 +231,15 @@
 </table>
 
 ### Design
-<div>
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/figma/figma-original.svg" height="40" alt="Figma" title="Figma" />
-</div>
+<table width='100%'>
+  <tr>
+    <td align="center" width="110" height="90">
+      <a href="#maxnes3-stack">
+        <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/figma/figma-original.svg" height="40" alt="Figma" title="Figma" />
+      </a>
+    </td>
+  </tr>
+</table>
   
 ## Контакты
 
